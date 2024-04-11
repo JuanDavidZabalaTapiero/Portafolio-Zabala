@@ -1,0 +1,19 @@
+.night{
+    background: white;
+}
+/* PROYECTOS */
+.night .proy-opc-btn1,
+.night .proy-opc-btn2,
+.night .proy-opc-btn3{
+    color: black;
+}
+.night #proyectos h2,
+.night #proyectos h3,
+.night #proyectos p{
+    color: black;
+}
+/* Hobbies */
+.night #hobbies h2,
+.night #hobbies p{
+    color: black;
+}
